@@ -1,0 +1,1 @@
+{"totalExpenses":220,"customers":[{"name":"Иванов Николай","totalExpenses":200,"purchases":[{"name":"Минеральная вода","expenses":200}]},{"name":"Иванов Антон","totalExpenses":20,"purchases":[{"name":"Хлеб","expenses":20}]}],"type":"stat","totalDays":6,"avgExpenses":"110.00"}
